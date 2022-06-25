@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Adi Levy
+- 👀 I’m a RT Embedded Software Engineer
+- 🌱 Computer Seince bachelor degree
+- 📫 LinkedIn-  https://www.linkedin.com/in/adi-levy-5ab9a31b1/
